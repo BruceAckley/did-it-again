@@ -1,26 +1,25 @@
 module.exports = {
-  name: "Supermaya",
+  name: "Did It Again",
   shortDesc:
-    "An 11ty starter kit designed to help you add rich features to a site without a complicated build process.",
+    "A silly blog about Decentralized Identifiers.",
   url: "",
-  authorEmail: "mike@madebymike.com.au",
-  authorHandle: "@MikeRiethmuller",
-  authorName: "Mike",
+  authorEmail: "",
+  authorHandle: "",
+  authorName: "Bruce",
   postsPerPage: 4,
   socialImage: "/img/social.jpg",
   theme: {
     primary: {
-      background: "white",
-      text: "black",
-      highlight: "#666",
-    },
-    secondary: {
       background: "black",
       text: "white",
       highlight: "#666",
     },
+    secondary: {
+      background: "white",
+      text: "black",
+      highlight: "#666",
+    },
   },
-
   keystone: {
     comments: true,
     bookmarks: true,
