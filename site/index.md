@@ -1,18 +1,18 @@
 ---
 layout: "layouts/home.njk"
-title: Simple Blog
+title: Did It Again
 postsHeading: Latest posts
 allPostsText: See all posts
 socialImage: ""
 ---
 
-An 11ty starter kit designed to help you add rich features to a site without a complicated build process.
+A silly blog about decentralized identifiers and other interesting shit.
 
 <ul>
     <li>
-        <a href="https://heroku.com/deploy?template=https://github.com/MadeByMike/keystone-jamstack-plus">Deploy Supermaya + Keystone</a> <small>(add user-generated content)</small>
+        <p>Some stuff...</p>
     </li>
     <li>
-        <a href="https://app.netlify.com/start/deploy?repository=https://github.com/MadeByMike/supermaya">Deploy Supermaya to Netlify</a>
+        <p>Some more stuff...</p>
     </li>
 </ul>

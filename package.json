@@ -1,7 +1,7 @@
 {
-  "name": "supermaya",
+  "name": "did-it-again",
   "version": "1.0.0",
-  "description": "An Eleventy starter-kit designed to help you add rich features to a blog or website without the need for a complicated build process.",
+  "description": "A silly blog about decentralized identifiers.",
   "main": "index.js",
   "engines": {
     "node": ">=11.0.0"
